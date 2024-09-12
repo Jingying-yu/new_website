@@ -1,5 +1,5 @@
 ---
-title: "my_new_website"
+title: "Sandy Yu's Website"
 ---
 
 This is my new website, please leave some commands about how this website looks.
