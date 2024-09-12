@@ -1,14 +1,5 @@
 ---
 title: "About"
-about:
-  template: jolla
-  links:
-    - icon: linkedin
-      text: LinkedIn
-      href: https://www.linkedin.com/in/sandy-yu-8b1504261
-    - icon: github
-      text: Github
-      href: https://github.com/Jingying-yu/personal-website.git
 ---
 
 An undergraduate student at University of Toronto double majoring in Statistics and Economics with Focus in Data Analysis.
