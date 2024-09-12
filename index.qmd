@@ -1,6 +1,5 @@
 ---
 title: "my_new_website"
-
 ---
 
 This is a Quarto website.
