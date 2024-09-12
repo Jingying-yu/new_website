@@ -2,7 +2,7 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "my_new_website",
+    "title": "Sandy Yu’s Website",
     "section": "",
     "text": "This is my new website, please leave some commands about how this website looks.\nMy name is Sandy Yu, I am an undergraduate student at UTSG."
   },
@@ -11,6 +11,20 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "An undergraduate student at University of Toronto double majoring in Statistics and Economics with Focus in Data Analysis.\nCurrently looking for more internship opportunities."
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About",
+    "section": "Education",
+    "text": "Education\nUniversity of Toronto, Ontario, Canada\nBachelor in Statistics & Economics with Focus in Data Analysis | Sept 2021 - May 2025"
+  },
+  {
+    "objectID": "about.html#experience",
+    "href": "about.html#experience",
+    "title": "About",
+    "section": "Experience",
+    "text": "Experience\nRoyal Bank of Canada | Avion Rewards/Ampli Operations Intern | Sept 2023 - Dec 2023"
   }
 ]

@@ -1,9 +1,27 @@
 ---
 title: "About"
+about:
+  template: jolla
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/sandy-yu-8b1504261
+    - icon: github
+      text: Github
+      href: https://github.com/Jingying-yu/personal-website.git
 ---
 
-About this site
+An undergraduate student at University of Toronto double majoring in Statistics and Economics with Focus in Data Analysis.
 
-```{r}
-1 + 1
-```
+Currently looking for more internship opportunities.
+
+## Education
+
+University of Toronto, Ontario, Canada
+
+Bachelor in Statistics & Economics with Focus in Data Analysis \| Sept 2021 - May 2025
+
+## Experience
+
+Royal Bank of Canada \| Avion Rewards/Ampli Operations Intern \| Sept 2023 - Dec 2023
+
